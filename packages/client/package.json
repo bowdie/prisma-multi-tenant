@@ -20,7 +20,8 @@
     "prettier": "prettier \"src/**/*.ts\" --check"
   },
   "dependencies": {
-    "@prisma-multi-tenant/shared": "^2.3.1"
+    "@prisma-multi-tenant/shared": "^2.3.1",
+    "@prisma/cli": "^2.7.0"
   },
   "peerDependencies": {
     "@prisma/cli": "^2.4.1"
